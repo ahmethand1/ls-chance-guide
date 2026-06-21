@@ -1,2 +1,14 @@
 # ls-chance-guide
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
